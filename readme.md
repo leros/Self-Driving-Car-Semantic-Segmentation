@@ -1,6 +1,13 @@
+
+[![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
+
+---
+### PART 3: Sensor Fusion, Localization, and Control
+### Project 2:  Semantic Segmentation
+
 ### Project Introduction
 
-Label the pixels of a road in images using a Fully Convolutional Network (FCN).
+In  this project, I label the pixels of a road in images using a Fully Convolutional Network (FCN).
 
 ### Keywords
 Fully Convolutional Network, Semantic Segmentation, Transfer Learning
